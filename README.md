@@ -1,68 +1,47 @@
 <img align="left" src="./AddFiles/C%23_logo.png" width="4%">  
-<h1 style="margin:10;">Datenfelder</h1>
+<h1 style="margin:10;">Datenfelder in der Konsole ausgeben</h1>
 
 [Modelunternehmen](./AddFiles/Modelunternehmen.PNG)   
 [Lernsituation](./AddFiles/Einstieg.png)
 
 # Arbeitsauftrag
-### Aufgabe 1: Recherche 
+### Aufgabe 1: Programm anpassen
 
-Recherchieren Sie eine geeignete Möglichkeit um das Problem von Darius zu lösen. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **5 min**
-
-> :information_source: **Hinweis**:exclamation:  
-> Nutzen Sie eine der Informationsquellen  
-> - [Informationsblatt zu Datenfeldern](./AddFiles/Informationsmaterial/SAS_Arrays_Info.pdf)
-> - [Internetquelle](https://www.csharptutorial.net/csharp-tutorial/csharp-array/)
-> - [ChatGPT3](./AddFiles/Informationsmaterial)(Hierfür müsst ihr bei OpenAi registriert sein)
-> - [Online-Compiler](https://www.programiz.com/csharp-programming/online-compiler/)(Falls Visual Studio nicht funtioniert)
-
- 
----
-  
-### Aufgabe 2: Austauschen
-Tauschen Sie sich mit ihrem Sitznachbarn aus und Notieren Sie ihren Lösungsansatz. :busts_in_silhouette:**Partnerarbeit**  | :clock130: **3 min**   
-Machen Sie sich notizen indem sie das ReadMe bearbeiten und anschließend committen.
-
-
-```
---------Notizen--------
-
-
-
-
-
-
------------------------
-```
-### Aufgabe 3: Programm anpassen
-
-#### Aufgabe 3.1 Notenliste 
-Nutzen Sie die [Implementierung](./Aufgabe1_Notenliste/Program.cs) von Darius und erweitern Sie diese so, dass die Noten (1-6, als **String**) eingelesen werden können. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **10 min**
+Nutzen Sie die [Implementierung](./Aufgabe1_Namensliste/Program.cs) von Herrn Schneider und erweitern Sie diese so, dass die Namen nacheinander in der Konsole ausgegeben werden. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **15 min**
 
 > :information_source: **Hinweise**:exclamation:
-> + Committen und pushen Sie ihre Arbeit oder fügen Sie diese über die Github Oberfläche in Ihr Repository ein.
-
-
-#### Aufgabe 3.2 Namensliste
-
-Nutzen Sie Ihre Lösung aus Aufgabe 1 und erweitern Sie das [Program](./Aufgabe2_Namensliste/Program.cs) so, dass Benutzer auch den Namen der Lernenden eingeben können. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **10 min**
-
-> :information_source: **Hinweise**:exclamation:
-> + Committen und pushen Sie ihre Arbeit oder fügen Sie diese über die Github Oberfläche in Ihr Repository ein.
+> + Committen und pushen Sie ihre Arbeit oder fÃ¼gen Sie diese Ã¼ber die Github OberflÃ¤che in Ihr Repository ein.
 
 ---
 
-##### Aufgabe 3.3 Notentabelle
+### Aufgabe 2: LÃ¶sungsmethode verschriftlichen
 
-Nutzen Sie Ihre Lösung aus Aufgabe 2 und erweitern Sie das [Program](./Aufgabe3_Notentabelle/Program.cs) so ,dass nach der Eingabe der Noten und Namen eine Notentabelle ausgegeben wird. Auchten Sie darauf das die Namen den entsprechenden Noten zugeordnet sind. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **10 min**
+Erstellen Sie fÃ¼r Ihre LÃ¶sungsmethode ein Plakat das die Syntax und die Anwendung verdeutlicht. :busts_in_silhouette:**Gruppenarbeit**  | :clock130: **30 min**
+
+Folgendes sollte Ihr Plakat enthalten:
++ Syntax
++ Beschreibung (falls nÃ¶tig)
++ Konkretes Beispiel
+
 
 > :information_source: **Hinweise**:exclamation:
-> + Committen und pushen Sie ihre Arbeit oder fügen Sie diese über die Github Oberfläche in Ihr Repository ein.
+> + Planen Sie Position und GrÃ¶ÃŸe einzelner Inhalte zunÃ¤chst auf einem DIN A4 â€“ Blatt.
+> + Nutzen Sie Farbakzente um unterschiedliche Aspekte hervorzuheben.
+> 
 
 ---
-  
+
+### Aufgabe 3: PrÃ¤sentation der Plakate
+
+Teilen Sie einzelne Bereiche des Plakats in Ihrer Gruppe auf und stellen Sie diese der Klasse vor. :busts_in_silhouette:**Gruppenarbeit**  | :clock130: **10 min**
+
+> :information_source: **Hinweise**:exclamation:
+> + Zu jedem Plakat gibt die Klasse Feedback zu den Aspekten **VerstÃ¤ndlichkeit**, **Gestaltung**, **Inhaltliche VollstÃ¤ndigkeit**.
+> + Machen Sie sich Notizen wenn die anderen gruppen PrÃ¤sentieren.
+> + Die beiden Plakate mit den meisten Stimmen werden in der Klasse aufgehangen. 
+
 # :100: Erfolgskriterien
   
 + Eingesetzten Quellcode kommentieren
-+ Quellcode schreiben der lesbar ist und mit Hilfe einer logischen Folge das Problem löst
++ Quellcode schreiben der lesbar ist und mit Hilfe einer logischen Folge das Problem lÃ¶st
 + Programmausgabe die korrekt, lesbar und richtig formatiert ist 
