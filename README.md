@@ -2,7 +2,7 @@
 <h1 style="margin:10;">Datenfelder in der Konsole ausgeben</h1>
 
 [Modelunternehmen](./AddFiles/Modelunternehmen.PNG)   
-[Lernsituation](./AddFiles/Einstieg.png)
+[Lernsituation](./AddFiles/Einstieg.PNG)
 
 # Arbeitsauftrag
 ### Aufgabe 1: Programm anpassen
