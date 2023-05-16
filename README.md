@@ -40,6 +40,16 @@ Teilen Sie einzelne Bereiche des Plakats in Ihrer Gruppe auf und stellen Sie die
 > + Machen Sie sich Notizen wenn die anderen gruppen Präsentieren.
 > + Die beiden Plakate mit den meisten Stimmen werden in der Klasse aufgehangen. 
 
+---
+
+### Aufgabe 4: Bestimmte Namen
+
+Verändern Sie das Programm so, dass der Benutzer nach einem Namen oder mehreren Namen in der Liste suchen kann. Falls der Name nicht in der Liste vorhanden ist, soll eine Fehlermeldung erscheinen. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **20 min**
+
+> :information_source: **Hinweise**:exclamation:
+> + Committen und pushen Sie ihre Arbeit oder fügen Sie diese über die Github Oberfläche in Ihr Repository ein.
+
+
 # :100: Erfolgskriterien
   
 + Eingesetzten Quellcode kommentieren

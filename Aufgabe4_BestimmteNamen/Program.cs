@@ -3,19 +3,18 @@
 
 /// <summary>
 /// SAS Zählergesteuerte Schleifen
-/// Arbeitsauftrag 1 - Aufgabe 1
-/// Namensliste
+/// Arbeitsauftrag 1 - Aufgabe 4
+/// Bestimmte Namen
 /// </summary>
-
 
 using System.Text.Json;
 
 
-Aufgabe_1.Aufgabe1();
+Aufgabe_4.Aufgabe4();
 
-public static class Aufgabe_1
+public static class Aufgabe_4
 {
-    public static void Aufgabe1()
+    public static void Aufgabe4()
     {
 
 
